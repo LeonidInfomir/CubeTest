@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 6666666666666666666666666
 66666666666666666666666666
-=======
-<<<<<<< HEAD
-sqadadas
-=======
->>>>>>> parent of 7d4fe8a... next commit
-=======
->>>>>>> SecondBranch
 11111111111111111111111111
 22222222222222222222222222
 11111111111111111111111111
@@ -20,13 +11,12 @@ sqadadas
 11111111111111111111111111
 22222222222222222222222222
 11111111111111111111111111
-<<<<<<< HEAD
-<<<<<<< HEAD
 22222222222222222222222222
-=======
-22222222222222222222222222
->>>>>>> ae9febf... commit for branch SecondBranch
->>>>>>> parent of 7d4fe8a... next commit
-=======
-22222222222222222222222222
->>>>>>> SecondBranch
+aaaaaaaaaaaaaaaaaaaaaaaaa
+ssssssssssssssssssssssssss
+ddddddddddddddddddddddddd
+ffffffffffffffffffffffff
+gggggggggggggggggggggggggg
+hhhhhhhhhhhhhhhhhhhhhhhh
+jjjjjjjjjjjjjjjjjjjjjjjjjj
+vvvvvvvvvvvvvvvvvvvvvvvvvvv
