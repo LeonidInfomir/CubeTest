@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 zzzzzzzzzzzzzzzzzzzzzzzzzz
+=======
+>>>>>>> fba1adb... commit 23/10/2018
 ffffffffffffffffffffffffff
 aaaaaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaaaaaaa
