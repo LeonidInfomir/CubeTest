@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 zzzzzzzzzzzzzzzzzzzzzzz
 =======
 >>>>>>> fba1adb... commit 23/10/2018
@@ -127,3 +128,7 @@ wBBBBBBBBBBBBBBBBBBBBBBB
 CCCCCCCCCCCCCCCCCCCCCCCC
 DDDDDDDDDDDDDDDDDDDDDDDD
 >>>>>>> SecondBranch
+=======
+00000000000000000000000
+00000000000000000000000
+>>>>>>> e665ff4... 3 commit for TestBranch

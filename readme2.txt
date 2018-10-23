@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 zzzzzzzzzzzzzzzzzzzzzzzzzz
 =======
 >>>>>>> fba1adb... commit 23/10/2018
@@ -42,3 +43,7 @@ Git test for file system
 777777777777777777777777777
 777777777777777777777777777
 >>>>>>> SecondBranch
+=======
+22222222222222222222222222222222
+22222222222222222222222222222222
+>>>>>>> e665ff4... 3 commit for TestBranch

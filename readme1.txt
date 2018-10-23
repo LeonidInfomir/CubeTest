@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 zzzzzzzzzzzzzzzzzzzzzzzz
 =======
 >>>>>>> fba1adb... commit 23/10/2018
@@ -32,3 +33,7 @@ gggggggggggggggggggggggggg
 hhhhhhhhhhhhhhhhhhhhhhhh
 jjjjjjjjjjjjjjjjjjjjjjjjjj
 vvvvvvvvvvvvvvvvvvvvvvvvvvv
+=======
+11111111111111111111111111
+11111111111111111111111111
+>>>>>>> e665ff4... 3 commit for TestBranch
